@@ -23,5 +23,7 @@ int main()
    mhs.nim = 20210140081;
    mhs.nama ="Ilham Fauzi";
    mhs.nilai = 90.5;
+
+   mhs.printData();
 }
 
