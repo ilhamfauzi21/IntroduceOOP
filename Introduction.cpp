@@ -1,4 +1,9 @@
 #include <iostream>
 using namespace std;
 
-class
+class Mahasiswa 
+{
+    int nim ;
+    string nama;
+    float nilai;
+};
